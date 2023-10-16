@@ -1,6 +1,7 @@
 {
   "Gateway": {
     "IP": "106.51.63.19",
-    "Port": 1200
+    "Port": 1200,
+    "pass":"MAHAganapa"
   }
 }
