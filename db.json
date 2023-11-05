@@ -1,8 +1,8 @@
 ﻿{
-	"Gateway": {
-		"IP": "106.51.63.19",
-		"Port": 1200,
-		"pass": "MAHAganapa",
-		"DownloadVersion": 1
-	}
+  "Gateway": {
+    "DownloadVersion": 1.0,
+    "pass": "MAHAganapa",
+    "port": 1200,
+    "IP": "106.51.63.19"
+  }
 }
