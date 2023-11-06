@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "Gateway": {
+	"DownloadVersion": "1",
+	"pass": "MAHAganapa",
+	"port": 1200,
+	"IP": "106.51.63.19",
+	"Asset_size":339,
+	"Asset_link":"https://download2286.mediafire.com/nzgim1i8yaug3fP3UrNKBb6adRjmORciTHY82X65EQAPgjv8rZjlAEZalG2NkAmProFn6B-3SSRWO12FHbVPXlay86Ly9MjdeNXMsoXuoqnbwzcf2KuIJ9TQDxgmAhQcQTTqwfb9oFvYbuY0AlmohEnunV83AKHKiGgPdIPDjMyo2-si/f1vn4qkr6taavuz/Asset.zip"
+	#https://cdn.matix-media.net/dd/8b42a7b8
+	#https://matix.li/19866cd3cf28
   }
 }
