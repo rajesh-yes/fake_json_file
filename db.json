@@ -5,6 +5,6 @@
 	"port": 1200,
 	"IP": "106.51.63.19",
 	"Asset_size": 279,
-	"Asset_link": "https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/h3MWQ27JuIWJ7edaXoCHfwJuR0G3/143bc080-940a-45e3-89b4-8588a6002f1f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20231108%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20231108T160247Z&X-Amz-Expires=43200&X-Amz-Signature=2ccd2ef1d9adde6de003e83b829be4226e6fe063d9812ed5f31688d8de86ca35&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B filename%3D%22Asset1.zip%22"
+	"Asset_link": "https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/h3MWQ27JuIWJ7edaXoCHfwJuR0G3/143bc080-940a-45e3-89b4-8588a6002f1f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20231108%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20231108T160247Z&X-Amz-Expires=43200&X-Amz-Signature=2ccd2ef1d9adde6de003e83b829be4226e6fe063d9812ed5f31688d8de86ca35&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Asset1.zip%22"
   }
 }
