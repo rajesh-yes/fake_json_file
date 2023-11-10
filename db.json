@@ -5,6 +5,7 @@
 	"port": 1200,
 	"IP": "106.51.63.19",
 	"Asset_size": 278,
-	"Asset_link": "https://www.googleapis.com/drive/v3/files/1rCkb5FqNMND8mUmIdv9i-IPHLzgqunoh?alt=media&key=AIzaSyAgelJkbcRSJkaQmCn_PukDo0WZpf1q4X4."
+	"Asset_link": "https://www.googleapis.com/drive/v3/files/1rCkb5FqNMND8mUmIdv9i-IPHLzgqunoh?alt=media&key=AIzaSyAgelJkbcRSJkaQmCn_PukDo0WZpf1q4X4.",
+	"server_status" : "online"
   }
 }
